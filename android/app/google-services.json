@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65931654732",
+    "firebase_url": "https://demo4intern.firebaseio.com",
+    "project_id": "demo4intern",
+    "storage_bucket": "demo4intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65931654732:android:6ff156f894f92bc45ba6e9",
+        "android_client_info": {
+          "package_name": "stucktle.demostorytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65931654732-i2nhr1okuo82d006gq8un35bnnu4tto3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stucktle.demostorytech",
+            "certificate_hash": "0701341b7ddf17b648c950c680251ba632cf8bf7"
+          }
+        },
+        {
+          "client_id": "65931654732-3fqp2780bcbgce6ni5v81mnqppcpm6sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vKmf8OaFAcn9Myw12tSLtNoL4l3YjbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65931654732-3fqp2780bcbgce6ni5v81mnqppcpm6sf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65931654732-9aoe0sodqsjmf74gtgak9dn6ffp0odhd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "stucktle.demostorytech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
